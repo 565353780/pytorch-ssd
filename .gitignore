@@ -1,0 +1,8 @@
+# compiled files
+__pycache__
+
+# results
+result
+
+# models
+checkpoint*
